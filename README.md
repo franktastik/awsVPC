@@ -12,7 +12,7 @@ Error message received while using the requested cidr block
 ```
 
 ```
-Requirements: Install Terraform, iam under eu-central-1, create a policy on aws, create access and secret key. 
+Requirements: Install Terraform locally, Install aws cli locally , copy the iam under eu-central-1, create a policy on aws and add it to data.tf file, create access and secret key and add it to the provider.tf file. 
 ```
 
 ##### Content of the Infrastructure:
@@ -64,6 +64,8 @@ Note: Used stackoverflow when i experience an error message.
 
 #### References 
 ```
+https://learn.hashicorp.com/tutorials/terraform/install-cli
+https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html
 https://medium.com/appgambit/terraform-aws-vpc-with-private-public-subnets-with-nat-4094ad2ab331
 https://registry.terraform.io/providers/hashicorp/aws/latest
 https://serverfault.com/questions/943582/aws-flagged-my-subnet-as-invalid-although-it-looks-to-be-within-the-vpc-cidr-blo
