@@ -58,7 +58,8 @@ $ Terraform delete
 ```
 
 ```
-Note: Use stackoverflow when i experience an error message. 
+Note: Used stackoverflow when i experience an error message. 
+      Search keyword: <error-message> aws "stackoverflow" | "terraform"
 ```
 
 #### References 
