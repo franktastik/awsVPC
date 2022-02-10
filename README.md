@@ -42,6 +42,7 @@ $ Terraform apply
 $ Terraform delete 
 ```
 
+## Result
 ![This is an image](https://github.com/franktastik/awsfile/blob/main/Screenshot%202022-02-09%20at%2022.39.59.png?raw=true)
 
 
