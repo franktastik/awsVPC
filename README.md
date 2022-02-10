@@ -28,6 +28,12 @@ Requirements: Install Terraform locally, Install aws cli locally , copy the iam 
  Target Group creation 
  Application Load Balancer
 ```
+
+### Architectural diagram
+
+![This is an image](https://github.com/franktastik/awsfile/blob/main/Screenshot%202022-02-10%20at%2020.57.21.png?raw=true)
+
+
 **This Project will involves creating resources with terraform**
 
 Install Terraform ( downlaod https://www.terraform.io/downloads.html) ;
